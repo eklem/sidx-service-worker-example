@@ -1,5 +1,5 @@
 # sidx-service-worker-example
-Example repository for [sidx-service-worker](https://github.com/eklem/sidx-service-worker) library using ArrowJS for reactivity.
+Example repository for [sidx-service-worker](https://github.com/eklem/sidx-service-worker) library using [ArrowJS](https://www.arrow-js.com/docs/) for reactivity.
 
 Library for example and demo purposes.
 
